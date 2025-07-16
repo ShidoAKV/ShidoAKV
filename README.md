@@ -3,6 +3,7 @@
    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=720&lines=Hi%2C+I'm+Abhishek+Vishwakarma.;I'm+a+Passionate+Full+Stack+Developer+%7C+DTU+%2726" alt="Typing SVG" />
   </a>
 </p>
+---
 
 
 ![Developer at work](https://user-images.githubusercontent.com/89845641/220167426-0c5f630e-6d56-4617-9775-71c2bd025b4f.gif)
