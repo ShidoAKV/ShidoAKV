@@ -65,8 +65,7 @@
 
 - ✅ Solved **1200+ DSA problems** on LeetCode, GFG, InterviewBit  
 - 🚀 **Max LeetCode Rating: 1689**, Rank **991** (Biweekly 142)  
-- 📈 **98.75 percentile** in JEE Main (Top 1.5%)  
-- 💬 Completed internships & freelance work using **Next.js**, **Prisma**, **Razorpay**, **Clerk**, and more  
+- 📈 **98.75 percentile** in JEE Main (Top 1.5%)    
 - 📚 Strong foundation in **OS**, **DBMS**, **CN**, **DSA**, and **Compiler Design**
 
 ---
