@@ -78,6 +78,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShidoAKV&theme=tokyonight" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShidoAKV&layout=compact&theme=tokyonight" />
+  
+  ![snake gif](https://github.com/ShidoAKV/ShidoAKV/blob/output/github-snake-dark.svg)
 </p>
 
 ---
@@ -90,4 +92,3 @@
 [![Leetcode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/shido_AKV/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShidoAKV)
 
-![snake gif](https://github.com/ShidoAKV/ShidoAKV/blob/output/github-snake-dark.svg)
