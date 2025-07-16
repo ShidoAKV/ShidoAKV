@@ -62,9 +62,7 @@
 
 ### 📈 GitHub Activity
 
-<p align="center">
  ![snake gif](https://github.com/ShidoAKV/ShidoAKV/blob/output/github-snake-dark.svg)
-</p>
 
 ---
 
