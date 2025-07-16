@@ -60,27 +60,20 @@
 
 ---
 
+### 📈 GitHub Activity
+
+<p align="center">
+ ![snake gif](https://github.com/ShidoAKV/ShidoAKV/blob/output/github-snake-dark.svg)
+</p>
+
+---
+
 ### 🏆 Highlights
 
 - ✅ Solved **1200+ DSA problems** on LeetCode, GFG, InterviewBit  
 - 🚀 **Max LeetCode Rating: 1689**, Rank **991** (Biweekly 142)  
 - 📈 **98.75 percentile** in JEE Main (Top 1.5%)    
 - 📚 Strong foundation in **OS**, **DBMS**, **CN**, **DSA**, and **Compiler Design**
-
----
-
-### 📈 GitHub Activity
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShidoAKV&show_icons=true&theme=tokyonight" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShidoAKV&theme=tokyonight" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShidoAKV&layout=compact&theme=tokyonight" />
-  
-  ![snake gif](https://github.com/ShidoAKV/ShidoAKV/blob/output/github-snake-dark.svg)
-</p>
 
 ---
 
@@ -91,4 +84,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.pilley.in/)
 [![Leetcode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/shido_AKV/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShidoAKV)
+
+
+
 
