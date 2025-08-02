@@ -7,7 +7,7 @@
 
 
 
-![Developer at work](https://user-images.githubusercontent.com/89845641/220167426-0c5f630e-6d56-4617-9775-71c2bd025b4f.gif)
+![Developer at work](https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif)
 
 🎓I'm a pre-final year B.Tech student at Delhi Technological University, a dedicated full stack developer experienced in building web and mobile applications using modern technologies like React Native, PERN, and MERN stacks. Currently exploring DevOps practices and AI integrations.
 
