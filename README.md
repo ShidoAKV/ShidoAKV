@@ -67,15 +67,6 @@
 
 ---
 
-### 🏆 Highlights
-
-- ✅ Solved **1200+ DSA problems** on LeetCode, GFG, InterviewBit  
-- 🚀 **Max LeetCode Rating: 1689**, Rank **991** (Biweekly 142)  
-- 📈 **98.75 percentile** in JEE Main (Top 1.5%)    
-- 📚 Strong foundation in **OS**, **DBMS**, **CN**, **OOPS**, **DSA**
-
----
-
 ### 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-vishwakarma-96a847263/)
